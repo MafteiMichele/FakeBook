@@ -1,0 +1,122 @@
+.header{
+    height:70px; 
+    background-color: #405F98;
+}
+
+.genericFont{
+    font-family: 'Segoe UI';
+}
+
+.content{
+    height: 100%;
+    width: 900px;   
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;  
+}
+
+.contentTitle{
+    font-size: 40px;
+    font-style: italic;
+    color: white;
+    font-weight: 500;
+    margin-top: 5px;
+    padding-left: 15px;
+}
+
+.leftZone{
+    width: 180px;
+    padding: 10px;
+}
+
+.rightZone{
+    width: 720px;
+}
+
+.tipeFont1{
+    font-size: 20px;
+    font-style: normal;
+    color: black;
+    font-weight: 500;
+    margin-top: 15px;
+}
+
+.tipeFont2{
+    font-size: 13px;
+    font-style: normal;
+    color: black;
+    opacity: 0.5;
+    font-weight: 500;
+}
+
+.tipeFont3{
+    font-size: 15px;
+    font-style: normal;
+    color: black;
+    font-weight: 500;
+}
+
+.tipeFont4{
+    font-size: 15px;
+    font-style: normal;
+    color: #365899;
+    font-weight: 500;
+}
+
+.tipeFontButton{
+    font-size: 13px;
+    font-style: normal;
+    color: white;
+    font-weight: 500;
+    padding: 5px 12px 5px 12px;
+    margin-top: 9px;
+    margin-left: 5px;
+    display: inline-block; 
+    border-left: 1px solid rgb(204, 203, 203);
+    border-top: 1px solid rgb(204, 203, 203);
+    border-right: 1px solid rgb(204, 203, 203);
+    border-bottom: 1px solid rgb(204, 203, 203);
+}
+
+.tipeFontButtonGroup{
+    font-size: 13px;
+    font-style: normal;
+    color: #7D7D7D;
+    padding: 2px 8px 2px 5px;
+    display: inline; 
+    border-left: 1px solid rgb(204, 203, 203);
+    border-top: 1px solid rgb(204, 203, 203);
+    border-bottom: 1px solid rgb(204, 203, 203);
+    background-color: #E8E9EB;
+    
+}
+
+.groupButton{
+    margin: 15px 10px 11px 10px;
+}
+
+ul{
+    list-style-type: none;
+    padding-inline-start: 0px;
+    margin-top: 15px;
+}
+
+li{
+    padding: 8px 0px 8px 8px; 
+}
+
+.post{
+    background-color: white;
+    overflow: auto;
+    margin-bottom: 10px;
+}
+
+.view{
+    -webkit-margin-before-collapse: discard;
+    background-color: rgb(225, 227, 228);
+    overflow: auto;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 500;
+}
+}
